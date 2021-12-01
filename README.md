@@ -9,6 +9,8 @@ each row element of first matrix with every column element of other matrix. If y
 take some time and time also depends on the type of matrix. If the matrix size will be 2x2 then it can be solved easily, but if index
 size will be greater than 3 or both matrix indexes will be differ, then it’s hard to solve the problem within 5 minutes. So to save your
 time, this system can be used to match your solutions just by entering few details about the type of matrix and about their elements.
+
+
 Existing System:
 Although the existing system also provide computer oriented solutions to get the matrix multiplications results but the existing 
 system cannot be used for different sizes.It cannot be used for those matrix whose index sizes various and this system can only be 
